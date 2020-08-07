@@ -7,8 +7,9 @@
  3. Refine the tweets ( Tokenization, removing stop words, stemming and then rejoining)
  4. Get the subjectivity and polarity of each tweet.
  5. Get Analysis based on polarity score and categorise into positive, negative or neutral tweets.
+ 6. Visualize the results.
  
  - The "Sentimental Analysis of Tweets" file consists of the entire code.
  - BoycottChinaTweets.csv has all the tweets in raw form.
- - final.csv is the file with all thh pre-processed tweets.
+ - final.csv is the file with all the pre-processed tweets.
  
